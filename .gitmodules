@@ -4,7 +4,7 @@
 	url = git@github.com:mfocchi/ros_impedance_controller.git
 [submodule "robot_control"]
 	path = robot_control
-	url = git@github.com:mfocchi/robot_control.git
+	url = git@github.com:gbrlb/robot_control.git
 [submodule "robot_descriptions/climbingrobot_description"]
 	path = robot_descriptions/climbingrobot_description
 	url = git@github.com:mfocchi/climbingrobot_description.git
