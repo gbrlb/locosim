@@ -1,7 +1,7 @@
 
 [submodule "ros_impedance_controller"]
 	path = ros_impedance_controller
-	url = https://github.com/mfocchi/ros_impedance_controller.git
+	url = https://github.com/gbrlb/ros_impedance_controller.git
 [submodule "robot_control"]
 	path = robot_control
 	url = https://github.com/gbrlb/robot_control.git
@@ -25,7 +25,7 @@
 	url = https://github.com/mfocchi/solo_fw_description.git
 [submodule "robot_descriptions/go1_description"]
 	path = robot_descriptions/go1_description
-	url = https://github.com/mfocchi/go1_description.git
+	url = https://github.com/gbrlb/go1_description.git
 [submodule "robot_descriptions/aliengo_description"]
 	path = robot_descriptions/aliengo_description
 	url = https://github.com/mfocchi/aliengo_description.git
